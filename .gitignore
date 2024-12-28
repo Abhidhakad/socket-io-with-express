@@ -1,0 +1,31 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Environment files
+.env
+.env.*.local
+
+# Build output
+dist/
+build/
+.cache/
+
+# npm & Yarn
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+
+# Debugging
